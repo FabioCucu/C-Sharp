@@ -1,0 +1,7 @@
+E:\3F Informatica\Cucu_Fabio_C#\ScuolaElementare\bin\Debug\ScuolaElementare.exe.config
+E:\3F Informatica\Cucu_Fabio_C#\ScuolaElementare\bin\Debug\ScuolaElementare.exe
+E:\3F Informatica\Cucu_Fabio_C#\ScuolaElementare\bin\Debug\ScuolaElementare.pdb
+E:\3F Informatica\Cucu_Fabio_C#\ScuolaElementare\obj\Debug\ScuolaElementare.csproj.AssemblyReference.cache
+E:\3F Informatica\Cucu_Fabio_C#\ScuolaElementare\obj\Debug\ScuolaElementare.csproj.CoreCompileInputs.cache
+E:\3F Informatica\Cucu_Fabio_C#\ScuolaElementare\obj\Debug\ScuolaElementare.exe
+E:\3F Informatica\Cucu_Fabio_C#\ScuolaElementare\obj\Debug\ScuolaElementare.pdb

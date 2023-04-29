@@ -1,0 +1,7 @@
+E:\3F Informatica\Cucu_Fabio_C#\Rettangolo\Rettangolo\bin\Debug\Rettangolo.exe.config
+E:\3F Informatica\Cucu_Fabio_C#\Rettangolo\Rettangolo\bin\Debug\Rettangolo.exe
+E:\3F Informatica\Cucu_Fabio_C#\Rettangolo\Rettangolo\bin\Debug\Rettangolo.pdb
+E:\3F Informatica\Cucu_Fabio_C#\Rettangolo\Rettangolo\obj\Debug\Rettangolo.csproj.AssemblyReference.cache
+E:\3F Informatica\Cucu_Fabio_C#\Rettangolo\Rettangolo\obj\Debug\Rettangolo.csproj.CoreCompileInputs.cache
+E:\3F Informatica\Cucu_Fabio_C#\Rettangolo\Rettangolo\obj\Debug\Rettangolo.exe
+E:\3F Informatica\Cucu_Fabio_C#\Rettangolo\Rettangolo\obj\Debug\Rettangolo.pdb

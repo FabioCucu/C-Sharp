@@ -1,0 +1,7 @@
+E:\3F Informatica\Cucu_Fabio_C#\Supermercato\Supermercato\bin\Debug\Supermercato.exe.config
+E:\3F Informatica\Cucu_Fabio_C#\Supermercato\Supermercato\bin\Debug\Supermercato.exe
+E:\3F Informatica\Cucu_Fabio_C#\Supermercato\Supermercato\bin\Debug\Supermercato.pdb
+E:\3F Informatica\Cucu_Fabio_C#\Supermercato\Supermercato\obj\Debug\Supermercato.csproj.AssemblyReference.cache
+E:\3F Informatica\Cucu_Fabio_C#\Supermercato\Supermercato\obj\Debug\Supermercato.csproj.CoreCompileInputs.cache
+E:\3F Informatica\Cucu_Fabio_C#\Supermercato\Supermercato\obj\Debug\Supermercato.exe
+E:\3F Informatica\Cucu_Fabio_C#\Supermercato\Supermercato\obj\Debug\Supermercato.pdb

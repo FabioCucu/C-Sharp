@@ -1,0 +1,7 @@
+E:\3F Informatica\Cucu_Fabio_C#\SwitchProject\bin\Debug\SwitchProject.exe.config
+E:\3F Informatica\Cucu_Fabio_C#\SwitchProject\bin\Debug\SwitchProject.exe
+E:\3F Informatica\Cucu_Fabio_C#\SwitchProject\bin\Debug\SwitchProject.pdb
+E:\3F Informatica\Cucu_Fabio_C#\SwitchProject\obj\Debug\SwitchProject.csproj.AssemblyReference.cache
+E:\3F Informatica\Cucu_Fabio_C#\SwitchProject\obj\Debug\SwitchProject.csproj.CoreCompileInputs.cache
+E:\3F Informatica\Cucu_Fabio_C#\SwitchProject\obj\Debug\SwitchProject.exe
+E:\3F Informatica\Cucu_Fabio_C#\SwitchProject\obj\Debug\SwitchProject.pdb
