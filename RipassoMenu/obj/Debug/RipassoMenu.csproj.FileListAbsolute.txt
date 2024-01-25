@@ -1,0 +1,7 @@
+E:\4F 2023-2024\RipassoMenu\bin\Debug\RipassoMenu.exe.config
+E:\4F 2023-2024\RipassoMenu\bin\Debug\RipassoMenu.exe
+E:\4F 2023-2024\RipassoMenu\bin\Debug\RipassoMenu.pdb
+E:\4F 2023-2024\RipassoMenu\obj\Debug\RipassoMenu.csproj.AssemblyReference.cache
+E:\4F 2023-2024\RipassoMenu\obj\Debug\RipassoMenu.csproj.CoreCompileInputs.cache
+E:\4F 2023-2024\RipassoMenu\obj\Debug\RipassoMenu.exe
+E:\4F 2023-2024\RipassoMenu\obj\Debug\RipassoMenu.pdb

@@ -1,0 +1,14 @@
+C:\Users\Studente\Desktop\Fabio Cucu\Verifica4F\Verifica4F\bin\Debug\Verifica4F.exe.config
+C:\Users\Studente\Desktop\Fabio Cucu\Verifica4F\Verifica4F\bin\Debug\Verifica4F.exe
+C:\Users\Studente\Desktop\Fabio Cucu\Verifica4F\Verifica4F\bin\Debug\Verifica4F.pdb
+C:\Users\Studente\Desktop\Fabio Cucu\Verifica4F\Verifica4F\obj\Debug\Verifica4F.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Fabio Cucu\Verifica4F\Verifica4F\obj\Debug\Verifica4F.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Fabio Cucu\Verifica4F\Verifica4F\obj\Debug\Verifica4F.exe
+C:\Users\Studente\Desktop\Fabio Cucu\Verifica4F\Verifica4F\obj\Debug\Verifica4F.pdb
+C:\Users\Studente\Downloads\Fabio Cucu\Verifica4F\Verifica4F\bin\Debug\Verifica4F.exe.config
+C:\Users\Studente\Downloads\Fabio Cucu\Verifica4F\Verifica4F\bin\Debug\Verifica4F.exe
+C:\Users\Studente\Downloads\Fabio Cucu\Verifica4F\Verifica4F\bin\Debug\Verifica4F.pdb
+C:\Users\Studente\Downloads\Fabio Cucu\Verifica4F\Verifica4F\obj\Debug\Verifica4F.csproj.AssemblyReference.cache
+C:\Users\Studente\Downloads\Fabio Cucu\Verifica4F\Verifica4F\obj\Debug\Verifica4F.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Downloads\Fabio Cucu\Verifica4F\Verifica4F\obj\Debug\Verifica4F.exe
+C:\Users\Studente\Downloads\Fabio Cucu\Verifica4F\Verifica4F\obj\Debug\Verifica4F.pdb
