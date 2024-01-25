@@ -1,0 +1,7 @@
+F:\Clinica\bin\Debug\Clinica.exe.config
+F:\Clinica\bin\Debug\Clinica.exe
+F:\Clinica\bin\Debug\Clinica.pdb
+F:\Clinica\obj\Debug\Clinica.csproj.AssemblyReference.cache
+F:\Clinica\obj\Debug\Clinica.csproj.CoreCompileInputs.cache
+F:\Clinica\obj\Debug\Clinica.exe
+F:\Clinica\obj\Debug\Clinica.pdb

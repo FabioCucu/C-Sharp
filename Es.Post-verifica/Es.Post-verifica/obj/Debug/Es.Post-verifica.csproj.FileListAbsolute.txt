@@ -1,0 +1,7 @@
+E:\4F 23-24\Es.Post-verifica\Es.Post-verifica\bin\Debug\Es.Post-verifica.exe.config
+E:\4F 23-24\Es.Post-verifica\Es.Post-verifica\bin\Debug\Es.Post-verifica.exe
+E:\4F 23-24\Es.Post-verifica\Es.Post-verifica\bin\Debug\Es.Post-verifica.pdb
+E:\4F 23-24\Es.Post-verifica\Es.Post-verifica\obj\Debug\Es.Post-verifica.csproj.AssemblyReference.cache
+E:\4F 23-24\Es.Post-verifica\Es.Post-verifica\obj\Debug\Es.Post-verifica.csproj.CoreCompileInputs.cache
+E:\4F 23-24\Es.Post-verifica\Es.Post-verifica\obj\Debug\Es.Post-verifica.exe
+E:\4F 23-24\Es.Post-verifica\Es.Post-verifica\obj\Debug\Es.Post-verifica.pdb

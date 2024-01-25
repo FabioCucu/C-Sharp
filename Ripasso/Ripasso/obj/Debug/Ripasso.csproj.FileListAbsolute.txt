@@ -1,0 +1,7 @@
+F:\4F 23-24\Ripasso\Ripasso\bin\Debug\Ripasso.exe.config
+F:\4F 23-24\Ripasso\Ripasso\bin\Debug\Ripasso.exe
+F:\4F 23-24\Ripasso\Ripasso\bin\Debug\Ripasso.pdb
+F:\4F 23-24\Ripasso\Ripasso\obj\Debug\Ripasso.csproj.AssemblyReference.cache
+F:\4F 23-24\Ripasso\Ripasso\obj\Debug\Ripasso.csproj.CoreCompileInputs.cache
+F:\4F 23-24\Ripasso\Ripasso\obj\Debug\Ripasso.exe
+F:\4F 23-24\Ripasso\Ripasso\obj\Debug\Ripasso.pdb

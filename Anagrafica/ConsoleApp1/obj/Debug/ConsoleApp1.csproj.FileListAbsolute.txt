@@ -1,0 +1,42 @@
+C:\Users\Studente\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Studente\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Studente\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Studente\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Studente\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\4F 23-24\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\4F 23-24\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\4F 23-24\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\4F 23-24\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\4F 23-24\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\4F 23-24\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\4F 23-24\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\4F 23-24\Anagrafica 2\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\4F 23-24\Anagrafica 2\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\4F 23-24\Anagrafica 2\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\4F 23-24\Anagrafica 2\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\4F 23-24\Anagrafica 2\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\4F 23-24\Anagrafica 2\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\4F 23-24\Anagrafica 2\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\DEEPGAMING\Downloads\Anagrafica 2-20231027T155723Z-001\Anagrafica 2\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\DEEPGAMING\Downloads\Anagrafica 2-20231027T155723Z-001\Anagrafica 2\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\DEEPGAMING\Downloads\Anagrafica 2-20231027T155723Z-001\Anagrafica 2\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\DEEPGAMING\Downloads\Anagrafica 2-20231027T155723Z-001\Anagrafica 2\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\DEEPGAMING\Downloads\Anagrafica 2-20231027T155723Z-001\Anagrafica 2\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\DEEPGAMING\Downloads\Anagrafica 2-20231027T155723Z-001\Anagrafica 2\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\DEEPGAMING\Downloads\Anagrafica 2-20231027T155723Z-001\Anagrafica 2\Anagrafica 2-20231016T154415Z-001\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\DEEPGAMING\Downloads\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\DEEPGAMING\Downloads\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\DEEPGAMING\Downloads\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\DEEPGAMING\Downloads\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\DEEPGAMING\Downloads\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\DEEPGAMING\Downloads\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\DEEPGAMING\Downloads\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\4F 23-24\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\4F 23-24\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\4F 23-24\Anagrafica 2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\4F 23-24\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\4F 23-24\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\4F 23-24\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\4F 23-24\Anagrafica 2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
